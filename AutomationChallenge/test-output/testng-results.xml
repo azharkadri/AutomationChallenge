@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-29T11:30:53 IST" name="Default suite" finished-at="2020-01-29T11:30:53 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2020-01-29T11:30:53 IST" name="Default test" finished-at="2020-01-29T11:30:53 IST" duration-ms="55">
+      <class name="interviewQuestions.FirstCharacterOfString">
+        <test-method signature="TestFirstCharacterOfString()[pri:0, instance:interviewQuestions.FirstCharacterOfString@4961f6af]" started-at="2020-01-29T11:30:53 IST" name="TestFirstCharacterOfString" finished-at="2020-01-29T11:30:53 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFirstCharacterOfString -->
+      </class> <!-- interviewQuestions.FirstCharacterOfString -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
